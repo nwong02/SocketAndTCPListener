@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketAndTCPListener", "SocketAndTCPListener.csproj", "{C1B58882-97F0-4253-89D4-1954A2C313F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B58882-97F0-4253-89D4-1954A2C313F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B58882-97F0-4253-89D4-1954A2C313F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B58882-97F0-4253-89D4-1954A2C313F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B58882-97F0-4253-89D4-1954A2C313F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {336617CB-1F0C-4111-9FBD-12A51579719E}
+	EndGlobalSection
+EndGlobal
